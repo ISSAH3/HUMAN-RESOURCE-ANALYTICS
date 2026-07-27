@@ -8,7 +8,7 @@ The objective is to help HR managers and business leaders understand workforce d
 
 ---
 
-## 🎯 Business Objectives
+## 🎯 Business Objectives.
 
 The dashboard answers important HR business questions such as:
 
