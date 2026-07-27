@@ -65,7 +65,6 @@ Provides a high-level overview of the organization's workforce including:
 ### Dashboard Preview
 
 ![Executive Dashboard](Screenshots/01_Executive_Dashboard.png)
-
 ---
 
 ## 2️⃣ Workforce Demographics
