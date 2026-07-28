@@ -177,6 +177,6 @@ The SQL queries are available in the **SQL Scripts** folder.
 
 ## 👨‍💻 Author
 
-**Stanley Amanor**
+**Issah Yakubu**
 
 Data Analyst | SQL | Power BI | Excel
