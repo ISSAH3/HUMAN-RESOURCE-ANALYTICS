@@ -64,7 +64,7 @@ Provides a high-level overview of the organization's workforce including:
 
 ### Dashboard Preview
 
-![Executive Dashboard](Screenshots/01_Executive_Dashboard.png)
+![Dashboard Overview](https://github.com/ISSAH3/HUMAN-RESOURCE-ANALYTICS/blob/main/01_Executive_Dashboard.png)
 ---
 
 ## 2️⃣ Workforce Demographics
@@ -80,7 +80,6 @@ Analyzes workforce composition using:
 ### Dashboard Preview
 
 ![Workforce Demographics](Screenshots/02_Workforce_Demographics.png)
-
 ---
 
 ## 3️⃣ Attrition Analysis
@@ -96,7 +95,6 @@ Focuses on employee turnover by examining:
 ### Dashboard Preview
 
 ![Attrition Analysis](Screenshots/03_Attrition_Analysis.png)
-
 ---
 
 ## 4️⃣ Compensation & Salary Analysis
