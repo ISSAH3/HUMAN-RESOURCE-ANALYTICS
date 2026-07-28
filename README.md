@@ -79,7 +79,7 @@ Analyzes workforce composition using:
 
 ### Dashboard Preview
 
-![Workforce Demographics](Screenshots/02_Workforce_Demographics.png)
+![Dashboard Overview](https://github.com/ISSAH3/HUMAN-RESOURCE-ANALYTICS/blob/main/02_Workforce_Demographics.png)
 ---
 
 ## 3️⃣ Attrition Analysis
@@ -94,7 +94,7 @@ Focuses on employee turnover by examining:
 
 ### Dashboard Preview
 
-![Attrition Analysis](Screenshots/03_Attrition_Analysis.png)
+![Dashboard Overview ](https://github.com/ISSAH3/HUMAN-RESOURCE-ANALYTICS/blob/main/03_Attrition_Analysis.png)
 ---
 
 ## 4️⃣ Compensation & Salary Analysis
@@ -109,26 +109,9 @@ Provides insights into employee compensation including:
 
 ### Dashboard Preview
 
-![Compensation](Screenshots/04_Compensation_Salary.png)
-
+![Dashboard Overview](https://github.com/ISSAH3/HUMAN-RESOURCE-ANALYTICS/blob/main/04_Compensation_Salary.png)
 ---
 
-## 5️⃣ Performance & Employee Development
-
-Analyzes employee development through:
-
-- Job Satisfaction
-- Performance Rating
-- Years at Company
-- Promotions
-- Training
-- Work-Life Balance
-
-### Dashboard Preview
-
-![Performance](Screenshots/05_Performance_Development.png)
-
----
 
 ## 6️⃣ Executive Summary & Recommendations
 
@@ -136,8 +119,7 @@ Summarizes the key findings and provides strategic HR recommendations for improv
 
 ### Dashboard Preview
 
-![Executive Summary](Screenshots/06_Executive_Summary.png)
-
+![Dashboard Preview](https://github.com/ISSAH3/HUMAN-RESOURCE-ANALYTICS/blob/main/05_Executive_Summary.png)
 ---
 
 # 💻 SQL Analysis
